@@ -33,7 +33,7 @@ Building digital experiences where design, engineering, and AI intersect.
 
 ## 💭 Philosophy
 
-> I enjoy translating *"Wouldn't it be cool if..."* into experiences people can actually use.
+I enjoy translating *"Wouldn't it be cool if..."* into experiences people can actually use.
 
 I believe the best creative technology supports the idea rather than competing with it. My career has been spent bridging design and engineering, helping creative teams move from concept to production while embracing emerging technologies along the way.
 
