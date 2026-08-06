@@ -1,7 +1,7 @@
 # Hi, I'm Alex 👋
 
 ### Creative Technologist
-*Designer-minded developer exploring the future of creative technology.*
+Design-minded developer exploring the future of creative technology.
 
 Building digital experiences where design, engineering, and AI intersect.
 
