@@ -1,9 +1,10 @@
 # Hi, I'm Alex 👋
 
 ### Creative Technologist
-Design-minded developer exploring the future of creative technology.
 
-Building digital experiences where design, engineering, and AI intersect.
+I'm a Creative Technologist with 20 years of experience turning ideas into digital experiences.
+
+My career has lived at the intersection of design and engineering—building websites, interactive experiences, creative prototypes, and AI-powered workflows for agencies and brands. I enjoy solving problems where creativity and technology overlap.
 
 ---
 
