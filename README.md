@@ -1,54 +1,61 @@
 # Hi, I'm Alex 👋
 
-I'm a Creative Technologist with 20 years of experience turning ideas into digital experiences.
+### Creative Technologist
+*Designer-minded developer exploring the future of creative technology.*
 
-My career has lived at the intersection of design and engineering—building websites, interactive experiences, creative prototypes, and AI-powered workflows for agencies and brands. I enjoy solving problems where creativity and technology overlap.
+Building digital experiences where design, engineering, and AI intersect.
 
-## What I work with
+---
+
+## 🚀 What I do
 
 - Front-end Engineering
 - Creative Technology
+- AI Prototyping
 - React / Next.js
 - JavaScript / TypeScript
-- HTML / CSS / SASS
 - WordPress
-- AI Prototyping
-- Generative AI
-- ComfyUI Workflows
 - Creative Automation
+- Interactive Experiences
 
-## Currently Exploring
+---
 
-- AI-native creative workflows
-- Agentic systems
+## 🧠 Currently Exploring
+
+- Agentic AI workflows
 - ComfyUI
 - Local LLMs
-- Creative tooling for designers and developers
-- Rapid prototyping with modern web technologies
+- Creative tooling
+- Design systems
+- Rapid prototyping
 
-## Philosophy
+---
 
-I believe the best creative technology disappears into the experience.
+## 💭 Philosophy
 
-Good code should support the idea—not become the idea.
+> I enjoy translating *"Wouldn't it be cool if..."* into experiences people can actually use.
 
-I enjoy translating "Wouldn't it be cool if..." into products that people can actually use.
+I believe the best creative technology supports the idea rather than competing with it. My career has been spent bridging design and engineering, helping creative teams move from concept to production while embracing emerging technologies along the way.
 
-## Featured Projects
+---
 
-🚧 I'm currently expanding this GitHub with personal projects focused on:
+## 📂 Featured Projects
 
-- Creative AI workflows
-- React experiments
-- Interactive prototypes
-- Automation tools
-- Web experiments
+Currently building projects around:
 
-More coming soon.
+- 🤖 AI workflows
+- ⚛️ React experiments
+- 🎨 Interactive prototypes
+- ⚡ Creative automation
+- 🌐 Web experiments
 
-## Let's Connect
+---
 
-- Portfolio: [https://alexridore.com](https://alexridore.com/)
-- LinkedIn: [https://linkedin.com/in/alexridore](https://www.linkedin.com/in/alexridore/)
+## 🤝 Connect
+
+Portfolio → [https://alexridore.com](https://alexridore.com/)
+
+LinkedIn → [https://linkedin.com/in/alexridore](https://www.linkedin.com/in/alexridore/)
+
 
 Thanks for stopping by.
