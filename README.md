@@ -1,6 +1,6 @@
-# Hi, I'm Alex 👋
+<p align="center"><img src="https://www.alexridore.com/wp-content/themes/moar/_Assets/img/titleCardAnime.gif" alt="Alex Ridoré - Creative Technologist" style="display: block; margin: 0 auto; text-align: center;"></p>
 
-### Creative Technologist
+# Hi, I'm Alex 👋
 
 I'm a Creative Technologist with 20 years of experience turning ideas into digital experiences.
 
