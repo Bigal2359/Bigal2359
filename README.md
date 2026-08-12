@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.alexridore.com/wp-content/themes/moar/_Assets/img/titleCardAnime.gif" alt="Alex Ridoré - Creative Technologist" style="display: block; margin: 0 auto; text-align: center;"></p>
+<p align="center"><img src="https://alexridore.com/wp-content/themes/moar/_Assets/img/arid-logo.png" alt="Alex Ridoré - Creative Technologist" style="width: 250px;"></p>
 
 # Hi, I'm Alex 👋
 
